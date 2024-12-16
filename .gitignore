@@ -1,0 +1,4 @@
+*.swp
+.vscode
+build
+.DS_store
